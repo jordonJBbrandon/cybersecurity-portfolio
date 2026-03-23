@@ -17,3 +17,4 @@ Understand how phishing attacks work and how to identify them.
   
 ## Notes
 This lab helped me understand real-world phishing techniques.
+Added phishing lab write-up
